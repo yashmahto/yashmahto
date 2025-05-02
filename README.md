@@ -4,6 +4,13 @@
 - 📫 How to reach me
    yashmahto244@gmail.com
 
+  ## 📈 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashmahto&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashmahto&layout=compact&theme=radical)
+
+
 
 <!---
 yashmahto/yashmahto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
